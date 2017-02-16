@@ -7,7 +7,7 @@ This is a basic implementation of a linked list. I chose c++ because of familiar
 If you happen to read this, thank you.
 1--->2--->3--->4--->5--->NULL
 
-     temp--->
+     
 
 */
 
